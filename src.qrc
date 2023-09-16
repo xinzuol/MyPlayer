@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/Picture/20220617_194444.jpg</file>
+        <file>src/Picture/20220702_213430.jpg</file>
+        <file>src/Picture/20220704_225653.jpg</file>
+        <file>src/Picture/20220704_230533.jpg</file>
+        <file>src/Picture/20220704_231631.jpg</file>
+        <file>src/Picture/woman-7306978_1920.jpg</file>
+        <file>src/Picture/风绽-美叶 (5).jpg</file>
+        <file>src/background/风绽-美叶 (1).jpg</file>
+        <file>src/background/风绽-美叶 (6).jpg</file>
+        <file>src/background/风绽-美叶 (9).jpg</file>
+        <file>src/background/风绽-美叶 (10).jpg</file>
+        <file>src/Icon/IconPicture.png</file>
+        <file>src/Icon/MePlayer.ico</file>
+    </qresource>
+</RCC>
